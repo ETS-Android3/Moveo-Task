@@ -32,13 +32,13 @@ https://github.com/GiladAmar1/Moveo-Task.git
 
 ## Screenshots
 
-Loading Page            | Login Page            |  Register Page
+Login Page            | Register Page            |  Forgot Password Page
 :-------------------------:|:-------------------------:|:-------------------------:
-<img src="images/splash.png" alt="register" width="300">  | <img src="images/login.png" alt="register" width="300">  |  <img src="images/register.png" alt="register" width="300">
+<img src="images/Untitled3.png" alt="register" width="300">  | <img src="images/Untitled4.png" alt="register" width="300">  |  <img src="images/Untitled5.png" alt="register" width="300">
 
 List Mode            |  Map Mode |  Note Screen
 :-------------------------:|:-------------------------: |:-------------------------:
-<img src="images/list.png" alt="register" width="300">  |  <img src="images/map.png" alt="register" width="300"> |  <img src="images/add.png" alt="register" width="300">
+<img src="images/Untitled2.png" alt="register" width="300">  |  <img src="images/Untitled.png" alt="register" width="300"> |  <img src="images/Untitled6.png" alt="register" width="300">
 
 	
 ## Developed by:
