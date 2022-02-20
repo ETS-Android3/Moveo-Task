@@ -2,8 +2,7 @@
 
 <br />
 <p align="center">
-    <a href="https://github.com/noalecohen1/MoveoNotes">
-      <img src="images/logo.png" alt="Logo" width="400" heigt="400">
+      <img src="images/moveoLogo.png" alt="Logo" width="400" heigt="400">
   </a>
 </p>
 <p align="center">
