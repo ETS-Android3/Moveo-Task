@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "172351664187",
+    "project_id": "moveoauth",
+    "storage_bucket": "moveoauth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172351664187:android:943b6b4af6bc4ee8376c1e",
+        "android_client_info": {
+          "package_name": "com.giladmovieapp.moveonotesapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "172351664187-lqro4a8q6ej5eu0eq7n6juqo1fhp5u8d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2G9l7tob2MqrZOIiZFrufOZaJAmMoYJI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "172351664187-lqro4a8q6ej5eu0eq7n6juqo1fhp5u8d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,24 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=04:74:2D:70:71:4A:16:B0:19:74:48:C0:49:1A:DD:5A:A7:FC:5E:AE%3Bcom.giladmovieapp.moveonotesapp
+
+    You can also add your credentials to an existing key, using these values:
+
+    Package name:
+    com.giladmovieapp.moveonotesapp
+
+    SHA-1 certificate fingerprint:
+    04:74:2D:70:71:4A:16:B0:19:74:48:C0:49:1A:DD:5A:A7:FC:5E:AE
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyBkkvk44xvOyxqqq_HmbU6WEWB9gZOc_O0</string>
+</resources>
