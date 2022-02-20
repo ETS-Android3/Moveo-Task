@@ -21,6 +21,8 @@
 4. Implementation of GoogleMaps:
 	- For each Note, Map shows a marker at the note location.
 
+Bugs : Sometimes the markers do not appear on the map and sometimes they do.
+
 ## Getting Started...
 
 #### Installation
